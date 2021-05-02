@@ -42,7 +42,7 @@ const Header = () => {
                             </a>
                         </li>
                     </ul>
-                    <a target="_blank" href="https://drive.google.com/file/d/1bdBM-6GNFBCwcpgiaaB0BbJiGPuoo43T/view?usp=sharing">
+                    <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1bdBM-6GNFBCwcpgiaaB0BbJiGPuoo43T/view?usp=sharing" >
                         <button class="resume-btn"><FaArrowDown /> RESUME</button>
                     </a>
                 </div>

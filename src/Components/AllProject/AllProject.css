@@ -1,0 +1,37 @@
+.card button{
+    text-align: center;
+    width: 130px;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-left: 20px;
+    font-size: 15px;
+    font-weight: bold;
+    color: white
+
+}
+.card-body{
+    background-color: #163859;
+    color: white;
+
+}
+
+.card-footer {
+    background-color: #163859;
+}
+
+.card{
+   
+    height: 400px;
+    box-shadow: 5px 5px 5px 5px light lightgray;
+    transition: transform 0.3s;
+    
+    
+}
+.card-img-top{
+    height: 150px;
+}
+.card:hover{
+    transform: translateY(-3em) translateX(-0.5em);
+    border: 2px solid #8CC090;
+    background-color: #8CC090;
+  }
