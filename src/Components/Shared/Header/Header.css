@@ -1,0 +1,13 @@
+.navbar{
+    background-color: #163859;
+}
+.resume-btn{
+    border: 2px solid #8CC090;
+    background: #163859;
+    color:#fff;
+    padding: 6px 20px;
+}
+.resume-btn:hover{
+    background-color: #8CC090;
+    color: #fff;
+}

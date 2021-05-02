@@ -1,0 +1,64 @@
+.section{
+    width: 100%;
+    min-height: 110vh;
+    background-color: #1A3D5D;
+    color: #fff;
+    
+}
+.banner-content h6 {
+	font-size: 36px;
+	color: #fff;
+	margin-bottom: 0;
+	font-style: italic;
+}
+.banner-content h2 {
+	font-size: 60px;
+	color: #8cc090;
+	text-transform: uppercase;
+	font-style: italic;
+	line-height: 1;
+	margin-bottom: 10px;
+}
+.banner-content p {
+	font-size: 22px;
+	padding-right: 120px;
+	margin-bottom: 20px;
+}
+.banner-social ul li {
+	display: inline-block;
+	margin-right: 10px;
+}
+.banner-social ul li:last-child {
+	margin-right: 0;
+}
+.banner-social ul li a {
+	display: block;
+	width: 60px;
+	height: 60px;
+	text-align: center;
+	line-height: 46px;
+	background: transparent;
+	border-radius: 50%;
+	color: #8cc090;
+	font-size: 18px;
+	border: 2px solid #8cc090;
+}
+.banner-social ul li a:hover {
+	background: #8cc090;
+	color: #fff;
+}
+.banner-social {
+	margin-bottom: 40px;
+}
+.resume-download{
+    color: #fff;
+    border: 2px solid #8CC090;
+    padding: 15px 35px;
+}
+.resume-download:hover{
+    background-color: #8CC090;
+    color: #fff;
+}
+ol, ul{
+    padding-left: 0px;
+}
